@@ -1,0 +1,22 @@
+com.example.project/
+├── config/
+├── controllers/
+├── services/
+├── repositories/
+├── entities/
+├── dtos/
+├── exceptions/
+├── utils/
+├── mappers/
+├── interceptors/
+├── aspects/
+├── filters/
+├── jobs/
+├── properties/
+├── resources/
+│   ├── application.yml
+│   ├── static/
+│   ├── templates/
+│   ├── messages.properties
+├── test/
+└── MainApplication.java

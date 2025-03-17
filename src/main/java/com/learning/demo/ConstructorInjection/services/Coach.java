@@ -1,4 +1,4 @@
-package com.learning.demo.DependencyInjection;
+package com.learning.demo.ConstructorInjection.services;
 
 public interface Coach {
     String getDailyWorkout();
